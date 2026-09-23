@@ -9,7 +9,7 @@ Full-Stack Developer Founder,Co-Founder and AI/ML Enthusiast focused on building
 
 ## Technical Skills
 
-* **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
+* **Languages:** Python, JavaScript, TypeScript, SQL, MERN
 * **Full-Stack:** React, Next.js, Node.js, Express.js, REST APIs, System Architecture
 * **AI / ML & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NLP, RAG, AI Agents
 * **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
@@ -19,6 +19,15 @@ Full-Stack Developer Founder,Co-Founder and AI/ML Enthusiast focused on building
 
 ## Featured Projects
 
+### Kibou
+
+AI-driven full-stack system designed for workflow automation, intelligent decision-making, and user assistance.
+
+### CaveKrave
+
+Full-stack application highlighting reliable backend architecture, data processing, and automated business logic.
+
+
 ### CrisisMitra — Team-Errorist
 
 Disaster relief and emergency coordination platform featuring AI-powered triage and real-time SOS mapping, built with an offline-first architecture for low-connectivity environments.
@@ -27,13 +36,6 @@ Disaster relief and emergency coordination platform featuring AI-powered triage 
 
 Real-time coastal safety platform providing hazard reporting, safe-zone identification, lifeguard tracking, and offline AI safety guidance.
 
-### Kibou
-
-AI-driven full-stack system designed for workflow automation, intelligent decision-making, and user assistance.
-
-### CaveKrave
-
-Full-stack application highlighting reliable backend architecture, data processing, and automated business logic.
 
 ---
 
